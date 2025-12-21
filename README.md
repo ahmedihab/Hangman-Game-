@@ -43,8 +43,7 @@ CSS – styling and layout
 
 JavaScript – game logic, interactions, and validations
 
- How to Run the Game
-
+🚀 How to Run the Game 
 Clone or download this repository.
 
 Open the folder.
